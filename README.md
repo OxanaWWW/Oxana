@@ -18,7 +18,7 @@ This project is a task management system with user authentication and task track
 ### [Project 2](https://github.com/OxanaWWW/PYTHON_10.22)
 Solving a large number of tasks to train your understanding of the python language.
 
-![Project 2 Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc3%2FPython-logo-notext.svg%2F800px-Python-logo-notext.svg.png&tbnid=5ggbZuzNrIq8KM&vet=12ahUKEwjP6aXwyeSEAxUQBfsDHWo9AZ0QMygAegQIARBy..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_(programming_language)&docid=3wRBXLyvECcz0M&w=800&h=877&q=image%20%20python&ved=2ahUKEwjP6aXwyeSEAxUQBfsDHWo9AZ0QMygAegQIARBy)
+![Project 2 Image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp8816374.jpg&f=1&nofb=1&ipt=b5067adb3ef7a9223e90d2f78e543f8d82dfcac6f1db727dd42a9188accc9436&ipo=images)
 
 ## Skills
 
