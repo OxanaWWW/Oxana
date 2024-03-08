@@ -13,8 +13,7 @@
 ### [Project 1](https://github.com/OxanaWWW/finalCapstone)
 This project is a task management system with user authentication and task tracking capabilities. It allows users to register, log in, add tasks, view tasks, and perform other task-related operations. The system stores user information and task details in text files and provides a command-line interface for interaction.
 
-![Project 1 Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcontent%2Fimages%2F2020%2F05%2FPython-File-Handling-1.png&tbnid=MP1e6WR3kf-anM&vet=12ahUKEwjjq_HGyeSEAxUXvycCHfc_ArYQMygMegUIARCMAQ..i&imgrefurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fpython-write-to-file-open-read-append-and-other-file-handling-functions-explained%2F&docid=akUIXQHZbM0ODM&w=1505&h=788&q=image%20file%20python&ved=2ahUKEwjjq_HGyeSEAxUXvycCHfc_ArYQMygMegUIARCMAQ)
-
+![Project 1 Image](https://images.app.goo.gl/WaiNLnV9ywQPRUvM8)
 ### [Project 2](https://github.com/OxanaWWW/PYTHON_10.22)
 Solving a large number of tasks to train your understanding of the python language.
 
