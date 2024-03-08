@@ -1,9 +1,9 @@
 # OxanaWWW
 
-<!-- Add a brief bio or description -->
+
 👋 Hi, I'm Oxana Wagner, a passionate developer working on exciting projects.
 
-![My Image](https://drive.google.com/file/d/1JJr5J62ySfisupc-52VW2oalCk7lLBLA/view?usp=drive_link)
+![My Image](https://drive.google.com/file/d/1JJr5J62ySfisupc-52VW2oalCk7lLBLA/view?usp=sharing)
 
 
 [![GitHub followers](https://img.shields.io/github/followers/OxanaWWW?label=Follow&style=social)](https://github.com/OxanaWWW)
