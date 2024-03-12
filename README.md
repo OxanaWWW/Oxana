@@ -3,7 +3,7 @@
 
 👋 Hi, I'm Oxana Wagner, a passionate developer working on exciting projects.
 
-![My Image](https://gdurl.com/2wNiJ)
+![My Image](https://gdurl.com/2wNiJ =250x)
 [![GitHub followers](https://img.shields.io/github/followers/OxanaWWW?label=Follow&style=social)](https://github.com/OxanaWWW)
 
 ## Featured Projects
